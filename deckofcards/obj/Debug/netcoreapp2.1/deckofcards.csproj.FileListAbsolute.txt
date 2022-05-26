@@ -1,0 +1,11 @@
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.csprojAssemblyReference.cache
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.csproj.CoreCompileInputs.cache
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.AssemblyInfoInputs.cache
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.AssemblyInfo.cs
+/Users/gina/Desktop/C#/deckofcards/bin/Debug/netcoreapp2.1/deckofcards.deps.json
+/Users/gina/Desktop/C#/deckofcards/bin/Debug/netcoreapp2.1/deckofcards.runtimeconfig.json
+/Users/gina/Desktop/C#/deckofcards/bin/Debug/netcoreapp2.1/deckofcards.runtimeconfig.dev.json
+/Users/gina/Desktop/C#/deckofcards/bin/Debug/netcoreapp2.1/deckofcards.dll
+/Users/gina/Desktop/C#/deckofcards/bin/Debug/netcoreapp2.1/deckofcards.pdb
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.dll
+/Users/gina/Desktop/C#/deckofcards/obj/Debug/netcoreapp2.1/deckofcards.pdb

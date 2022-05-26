@@ -1,0 +1,7 @@
+namespace WAR
+{
+    class War
+    {
+        
+    }
+}
